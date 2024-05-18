@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishakha R. Agalawe
--  I am Computer science and Engineering Graduate.
+-  I have completed My Btech in Computer science and Engineering.
 - 👀 I’m interested in Full Stack Development: I have a strong passion for developing comprehensive web applications using Java on the backend and various frontend technologies.
    I enjoy working with both the server-side logic and the user interface, ensuring a seamless and efficient user experience.
 - 🌱 I’m currently learning Advanced Spring Boot
